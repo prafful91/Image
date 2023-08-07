@@ -1,0 +1,7 @@
+fastapi
+deepface
+numpy
+python-multipart
+uvicorn
+cmake
+dlib
